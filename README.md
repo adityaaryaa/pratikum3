@@ -40,11 +40,9 @@ int main() {
     cout << "bilangan terbesar adalah: " << max << endl;
 }
 
-Screenshootnya
-(https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/SS%20LATIHAN%201.png)
+[Screenshootnya](https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/SS%20LATIHAN%201.png)
 
-flowchartnya
-(https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/flowchart%20latihan1.jpg)
+[flowchartnya](https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/flowchart%20latihan1.jpg)
 
 Latihan 2 : mencari 3 bilangan terbesar
 	1. mendekrasi kan 3 variabel A,B,C
@@ -88,11 +86,9 @@ int main() {
     }
 }
 
-Screenshootnya
-(https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/SS%20LATIHAN%202.png)
+[Screenshootnya](https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/SS%20LATIHAN%202.png)
 
-flowchartnya
-(https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/FLOWCHART%20LATIHAN2.png)
+[flowchartnya](https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/FLOWCHART%20LATIHAN2.png)
 
 Latihan 3 : susun algoritma untuk menginput 3 buah bilangan bulat, (dianggap ketiga buah bilangan tersebut nilainya tidak sama satu dengan yang lain). kemudian cetaklah bilangan dengan nilai tengah (bukan terbesar juga bukan yang terkecil)
  
@@ -144,5 +140,4 @@ int main() {
 
  }
 
-Screenshootnya
-(https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/SS%20LATIHAN%203.png)
+[Screenshootnya](https://raw.githubusercontent.com/adityaaryaa/pratikum3/master/SS%20LATIHAN%203.png)
